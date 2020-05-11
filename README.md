@@ -1,7 +1,7 @@
 # graphql-node
 
-# In this tutorial, I learned how to build a GraphQL server from scratch. The stack used was based on Node.js, graphql-yoga and Prisma.
+## In this tutorial, I learned how to build a GraphQL server from scratch. The stack used was based on Node.js, graphql-yoga and Prisma.
 
-# graphql-yoga is a fast and simple GraphQL server library built on top of Express.js. It comes with several features, such as out-of-the-box support for GraphQL Playgrounds and realtime GraphQL subscriptions.
+## graphql-yoga is a fast and simple GraphQL server library built on top of Express.js. It comes with several features, such as out-of-the-box support for GraphQL Playgrounds and realtime GraphQL subscriptions.
 
-# The resolvers of GraphQL server are implemented using the Prisma client that’s responsible for database access.
+## The resolvers of GraphQL server are implemented using the Prisma client that’s responsible for database access.
